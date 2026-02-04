@@ -1,5 +1,5 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/modobasic/Racunali-vid---projekt/blob/main/Multiscale_Morphological_Gland_Segmentation.ipynb)
+(https://colab.research.google.com/github/modobasic/Racunalni-vid---projekt/blob/main/Multiscale_Morphological_Gland_Segmentation.ipynb)
 
 
 # Višeskalna analiza žlijezdanih struktura pomoću morfoloških operacija
