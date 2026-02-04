@@ -1,6 +1,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/modobasic/Racunali-vid---projekt/blob/main/Multiscale_Morphological_Gland_Segmentation.ipynb)
 
+
 # Višeskalna analiza žlijezdanih struktura pomoću morfoloških operacija
 
 Ovaj repozitorij sadrži projekt iz područja računalnog vida koji se bavi segmentacijom žlijezdanih struktura na histopatološkim slikama korištenjem matematičke morfologije i višeskalne analize.  
